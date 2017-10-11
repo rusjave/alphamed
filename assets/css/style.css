@@ -821,8 +821,16 @@ body {
 }
 
 .lab-results #body .content form {
-	    max-width: 330px;
+	max-width: 330px;
     padding: 15px;
     margin: 0 auto;
 }
+
+.admin-header #header ul li {
+	float: right;
+}
+
+.admin-section h1 {
+	text-align: center;
+	color: #588181
 }

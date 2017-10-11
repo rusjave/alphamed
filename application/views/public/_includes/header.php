@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div id="header">
-		<a href="index.html" class="logo"><img src="/assets/images/alphamed-logo.png" alt="" style="height: 93px;"></a>
+		<a href="<?php echo base_url('/');?>" class="logo"><img src="/assets/images/alphamed-logo.png" alt="alphamed-logo." style="height: 93px;"></a>
 		<ul>
 			<li class="selected">
 			<!-- 	<a href="/">home</a> -->

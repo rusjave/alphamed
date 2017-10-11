@@ -67,7 +67,7 @@ class Page extends CI_Controller {
 	*/
     public function login() {
       $user = $this->session->userdata('user');
-      print_r($user);
+      //print_r($user);
       if ($user) {
         // redirect(base_url().'public/login-success');
         $this->load->view('public/login-success');
@@ -87,7 +87,7 @@ class Page extends CI_Controller {
       );
       $auth = $this->user_model->authenticate($data);
       if($auth['status'] == 200) {
-        echo $auth['status'];
+        //echo $auth['status'];
         $this->session->set_userdata('user', $auth['content']);
         // redirect(base_url().'login-success');
           $this->load->view('public/login-success');
