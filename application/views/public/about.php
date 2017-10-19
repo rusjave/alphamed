@@ -35,7 +35,7 @@
 					<span class="email">email</span>
 					<ul>
 						<li>
-							<a href="http://www.freewebsitetemplates.com/misc/contact">nyc@volumeone.com</a>
+							<a href="#">nyc@volumeone.com</a>
 						</li>
 					</ul>
 				</li>
@@ -43,7 +43,7 @@
 					<span class="twitter">twitter</span>
 					<ul>
 						<li>
-							<a href="http://freewebsitetemplates.com/go/twitter/">@mattovolumeone</a>
+							<a href="#">@mattovolumeone</a>
 						</li>
 					</ul>
 				</li>
@@ -51,14 +51,14 @@
 					<span class="facebook">facebook</span>
 					<ul>
 						<li>
-							<a href="http://freewebsitetemplates.com/go/facebook/">www.facebook/illumelabs</a>
+							<a href="#">www.facebook/illumelabs</a>
 						</li>
 					</ul>
 				</li>
 			</ul>
 		</div>
 		<div class="content">
-			<img src="/assets/images/laboratory.jpg" alt="">
+			<img src="<?php echo base_url('/assets/images/laboratory.jpg'); ?>" alt="">
 			<h2>about</h2>
 			<h3>Alphamed</h3>
 			<p>

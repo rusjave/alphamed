@@ -4,7 +4,7 @@
 
 <div id="body">
 		<div class="content">
-			<img src="/assets/images/telephone.jpg" alt="">
+			<img src="<?php echo base_url('/assets/images/telephone.jpg'); ?>" alt="">
 			<h2>send us a message</h2>
 			<form action="index.html">
 				<label for="firstName"> <span>first name*</span>

@@ -4,7 +4,7 @@
 
 <div id="body">
 		<div class="content">
-			<img src="/assets/images/lobby.jpg" alt="">
+			<img src="<?php echo base_url('/assets/images/lobby.jpg'); ?>" alt="">
 			<h2>our locations</h2>
 			<div class="section">
 				<div>

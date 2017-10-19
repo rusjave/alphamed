@@ -6,7 +6,7 @@
 		<div id=body>
 			<div class="content">
 				<h2>Search Lab Results</h2>
-				<form action="/page/search" method="POST">
+				<form action="page/search" method="POST">
 					<label for="firstName">
 						<input name="keyword" type="text" placeholder="Please enter your id number">
 					</label>
@@ -30,7 +30,7 @@
 		<div>
 			<div class="article">
 				<h2>Welcome to Alphamed Diagnostic Center</h2>
-				<img src="assets/images/diagnostic-center.jpg" alt="">
+				<img src="<?php echo base_url('assets/images/diagnostic-center.jpg'); ?>" alt="">
 				<p>
 					"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 				</p>
@@ -50,7 +50,7 @@
 						</p>
 						<a href="blog.html" class="more">read more</a>
 					</div>
-					<img src="assets/images/hematology.jpg" alt="">
+					<img src="<?php echo base_url('assets/images/hematology.jpg'); ?>" alt="">
 				</li>
 				<li>
 					<h3>urine &amp; drug testing</h3>
@@ -60,7 +60,7 @@
 						</p>
 						<a href="blog.html" class="more">read more</a>
 					</div>
-					<img src="assets/images/urine-and-drug-testing.jpg" alt="">
+					<img src="<?php echo base_url('assets/images/urine-and-drug-testing.jpg'); ?>" alt="">
 				</li>
 				<li>
 					<h3>x-ray</h3>
@@ -70,7 +70,7 @@
 						</p>
 						<a href="blog.html" class="more">read more</a>
 					</div>
-					<img src="assets/images/x-ray.jpg" alt="">
+					<img src="<?php echo base_url('assets/images/x-ray.jpg'); ?>" alt="">
 				</li>
 				<li>
 					<h3>pathology and dna</h3>
@@ -80,7 +80,7 @@
 						</p>
 						<a href="blog.html" class="more">read more</a>
 					</div>
-					<img src="assets/images/pathology-and-dna.jpg" alt="">
+					<img src="<?php echo base_url('assets/images/pathology-and-dna.jpg'); ?>" alt="">
 				</li>
 			</ul>
 		</div>

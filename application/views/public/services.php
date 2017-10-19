@@ -6,7 +6,7 @@
 		<ul>
 			<li>
 				<div class="figure">
-					<span>laboratory services</span> <img src="/assets/images/laboratory-services.jpg" alt="">
+					<span>laboratory services</span> <img src="<?php echo base_url('/assets/images/laboratory-services.jpg'); ?>" alt="">
 				</div>
 				<div class="article">
 					<p>
@@ -67,7 +67,7 @@
 			</li>
 			<li>
 				<div class="figure">
-					<span>radiology</span> <img src="/assets/images/radiology.jpg" alt="">
+					<span>radiology</span> <img src="<?php echo base_url('/assets/images/radiology.jpg'); ?>" alt="">
 
 				</div>
 				<div class="article">
@@ -92,7 +92,7 @@
 			</li>
 			<li>
 				<div class="figure">
-					<span>general services</span> <img src="/assets/images/general-services.jpg" alt="">
+					<span>general services</span> <img src="<?php echo base_url('/assets/images/general-services.jpg'); ?>" alt="">
 				</div>
 				<div class="article">
 					<p>
