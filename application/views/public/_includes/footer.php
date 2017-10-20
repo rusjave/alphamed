@@ -20,5 +20,10 @@
 			</ul>
 		</div>
 	</div>
+
+	<script type="text/javascript" src="<?php echo base_url('assets/js/highlight.pack.js');?>"></script>
+	<script type="text/javascript" src="<?php echo base_url('assets/js/jquery-1.11.3.min.js');?>"></script>
+	<script type="text/javascript" src="<?php echo base_url('assets/js/jquery.terseBanner.min.js');?>"></script>
+	<script type="text/javascript" src="<?php echo base_url('assets/js/script.js');?>"></script>
 </body>
 </html>

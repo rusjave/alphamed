@@ -2,6 +2,19 @@
 	$this->load->view('public/_includes/header');
 ?>
 
+        <div class="container lazyload" id="anchor-6">
+ 
+            <div class="banner" id="lazyload">
+                <ul>
+                    <li><img data-src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/05/02/ChMkJ1bxATiIVlzmAAlJIHaXmLkAAOTUgN32YEACUk4716.jpg"></li>
+                    <li><img data-src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/05/02/ChMkJ1bxATaIevuuABYRrSzYfikAAOTUgI7dk0AFhHF290.jpg"></li>
+                    <li><img data-src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/05/02/ChMkJ1bxATyIHmOaAA427DMtOHcAAOTUwGiFqgADjcE489.jpg"></li>
+                    <li><img data-src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/05/02/ChMkJlbxAUCIMqKdAAMVx51HXogAAOTUwP6tOQAAxXf894.jpg"></li>
+                    <li><img data-src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/05/02/ChMkJlbxATqIBOwbAAt1D9lCvKkAAOTUwB9S5IAC3Un823.jpg"></li>
+                </ul>
+            </div>
+            
+        </div>
 	<div class="lab-results">
 		<div id=body>
 			<div class="content">

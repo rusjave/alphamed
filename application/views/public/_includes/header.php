@@ -5,6 +5,7 @@
 	<meta charset="UTF-8">
 	<title>Alphamed</title>
 	<link href="<?php echo base_url('/assets/css/style.css'); ?>" rel="stylesheet">
+	<link href="<?php echo base_url('/assets/css/slider.css'); ?>" rel="stylesheet">
 </head>
 <body>
 	<div id="header">
