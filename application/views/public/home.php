@@ -43,56 +43,6 @@
 
 				</p>
 			</div>
-			<!-- <ul>
-				<li>
-					<h3>PACKAGE A</h3>
-					<div>
-						<p>CBC</p>
-						<p>URINALYSIS</p>
-						<p>CHEST XRAY</p>
-						<p>PHYSICAL EXAM</p>
-						<p>PACKAGE COST P300.00</p>
-					</div>
-					<img src="<?php echo base_url('assets/images/hematology.jpg'); ?>" alt="">
-				</li>
-				<li>
-					<h3>PACKAGE B</h3>
-					<div>
-						<p>CBC</p>
-						<p>URINALYSIS</p>
-						<p>FECALYSIS</p>
-						<p>CHEST XRAY</p>
-						<p>PHYSICAL EXAM</p>
-						<p>PACKAGE COST P350.00</p>
-					</div>
-					<img src="<?php echo base_url('assets/images/urine-and-drug-testing.jpg'); ?>" alt="">
-				</li>
-				<li>
-					<h3>PACKAGE C</h3>
-					<div>
-						<p>CBC</p>
-						<p>URINALYSIS</p>
-						<p>FECALYSIS</p>
-						<p>12L ECG and/or PAP SMEAR</p>
-						<p>CHEST XRAY</p>
-						<p>PHYSICAL EXAM</p>
-						<p>PACKAGE COST P500.00 (WITH ECG), P650.00 (WITH PAP SMEAR),</p>
-						<p>P800 (WITH ECG AND PAP SMEAR)</p>
-					</div>
-					<img src="<?php echo base_url('assets/images/x-ray.jpg'); ?>" alt="">
-				</li>
-				<li>
-					<h3>PACKAGE A</h3>
-					<div>
-						<p>CBC</p>
-						<p>URINALYSIS</p>
-						<p>CHEST XRAY</p>
-						<p>PHYSICAL EXAM</p>
-						<p>PACKAGE COST P300.00</p>
-					</div>
-					<img src="<?php echo base_url('assets/images/pathology-and-dna.jpg'); ?>" alt="">
-				</li>
-			</ul> -->
 			<ul>
 				<li>
 					<h3>PACKAGE A</h3>
@@ -128,7 +78,7 @@
 						<p>P800 (WITH ECG AND PAP SMEAR)</p>
 					</div>
 				</li>
-				<
+				
 			</ul>
 		</div>
 	</div>
