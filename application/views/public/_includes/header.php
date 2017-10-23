@@ -9,7 +9,7 @@
 </head>
 <body>
 	<div id="header">
-		<a href="<?php echo base_url('/');?>" class="logo"><img src="<?php echo base_url('/assets/images/alphamed-logo.png'); ?>" alt="alphamed-logo." style="height: 93px;"></a>
+		<div class="header-logo"><a href="<?php echo base_url('/');?>" class="logo"><img src="<?php echo base_url('/assets/images/alphamed-logo.png'); ?>" alt="alphamed-logo." style="height: 93px;"></a></div>
 		<ul>
 			<li class="selected">
 			<!-- 	<a href="/">home</a> -->
@@ -28,7 +28,7 @@
 				<a href="<?php echo base_url('/page/contact');?>">contact</a>
 			</li>
 			<li class="selected">
-				<a href="<?php echo base_url('/page/login');?>">login</a>
+				<a href="<?php echo base_url('page/viewresults');?>">results</a>
 			</li>
 		</ul>
 	</div>

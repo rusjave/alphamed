@@ -56,6 +56,15 @@ class Page extends CI_Controller {
 	/*
 		results page controller
 	*/
+	public function viewresults()
+	{
+
+		$this->load->view('public/view-result');
+
+	}
+	/*
+		results page controller
+	*/
 	public function results()
 	{
 

@@ -64,5 +64,6 @@ $route['contact'] = 'page/contact';
 
 $route['results'] = 'page/results';
 
-$route['login'] = 'page/login';
+$route['doctor-logins'] = 'page/login';
 
+$route['viewresults'] = 'page/viewresults';

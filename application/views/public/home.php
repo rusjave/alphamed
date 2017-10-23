@@ -13,21 +13,7 @@
                     <li><img data-src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/05/02/ChMkJlbxATqIBOwbAAt1D9lCvKkAAOTUwB9S5IAC3Un823.jpg"></li>
                 </ul>
             </div>
-            
         </div>
-	<div class="lab-results">
-		<div id=body>
-			<div class="content">
-				<h2>Search Lab Results</h2>
-				<form action="page/search" method="POST">
-					<label for="firstName">
-						<input name="keyword" type="text" placeholder="Please enter your id number">
-					</label>
-					<input value="" id="submit" type="submit">
-				</form>	
-			</div>	
-		</div>
-
 	</div>
 	<div id="section">
 		<div>
@@ -45,56 +31,104 @@
 				<h2>Welcome to Alphamed Diagnostic Center</h2>
 				<img src="<?php echo base_url('assets/images/diagnostic-center.jpg'); ?>" alt="">
 				<p>
-					"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+					<strong>Affordability:</strong> Quality diagnostics need not be expensive. We ensure that our services are 30 percent lower compared with hospitals and other diagnostic laboratories. 
+
 				</p>
 				<p>
-					"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+					<strong>Reliability:</strong> We believe in providing the highest standards of service possible. Our staff are highly trained and utilize state of the art equipment for our clinical laboratory and ultrasound imaging.
+
 				</p>
 				<p>
-					"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+					<i><strong>“A reliable, convenient and affordable  diagnostic  laboratory is a vital component  in patient care”.</strong></i>
+
 				</p>
 			</div>
-			<ul>
+			<!-- <ul>
 				<li>
-					<h3>hematology</h3>
+					<h3>PACKAGE A</h3>
 					<div>
-						<p>
-							Blood extraction using seismic energy for painless testing.
-						</p>
-						<a href="blog.html" class="more">read more</a>
+						<p>CBC</p>
+						<p>URINALYSIS</p>
+						<p>CHEST XRAY</p>
+						<p>PHYSICAL EXAM</p>
+						<p>PACKAGE COST P300.00</p>
 					</div>
 					<img src="<?php echo base_url('assets/images/hematology.jpg'); ?>" alt="">
 				</li>
 				<li>
-					<h3>urine &amp; drug testing</h3>
+					<h3>PACKAGE B</h3>
 					<div>
-						<p>
-							Accurate and secure testing of urine for diseases and drugs and medicines.
-						</p>
-						<a href="blog.html" class="more">read more</a>
+						<p>CBC</p>
+						<p>URINALYSIS</p>
+						<p>FECALYSIS</p>
+						<p>CHEST XRAY</p>
+						<p>PHYSICAL EXAM</p>
+						<p>PACKAGE COST P350.00</p>
 					</div>
 					<img src="<?php echo base_url('assets/images/urine-and-drug-testing.jpg'); ?>" alt="">
 				</li>
 				<li>
-					<h3>x-ray</h3>
+					<h3>PACKAGE C</h3>
 					<div>
-						<p>
-							Fast and clear x-ray results. You’ll be assisted by our friendly staff all the way.
-						</p>
-						<a href="blog.html" class="more">read more</a>
+						<p>CBC</p>
+						<p>URINALYSIS</p>
+						<p>FECALYSIS</p>
+						<p>12L ECG and/or PAP SMEAR</p>
+						<p>CHEST XRAY</p>
+						<p>PHYSICAL EXAM</p>
+						<p>PACKAGE COST P500.00 (WITH ECG), P650.00 (WITH PAP SMEAR),</p>
+						<p>P800 (WITH ECG AND PAP SMEAR)</p>
 					</div>
 					<img src="<?php echo base_url('assets/images/x-ray.jpg'); ?>" alt="">
 				</li>
 				<li>
-					<h3>pathology and dna</h3>
+					<h3>PACKAGE A</h3>
 					<div>
-						<p>
-							State of the art testing for DNA that’s sure to be have fast and accurate results.
-						</p>
-						<a href="blog.html" class="more">read more</a>
+						<p>CBC</p>
+						<p>URINALYSIS</p>
+						<p>CHEST XRAY</p>
+						<p>PHYSICAL EXAM</p>
+						<p>PACKAGE COST P300.00</p>
 					</div>
 					<img src="<?php echo base_url('assets/images/pathology-and-dna.jpg'); ?>" alt="">
 				</li>
+			</ul> -->
+			<ul>
+				<li>
+					<h3>PACKAGE A</h3>
+					<div>
+						<p>CBC</p>
+						<p>URINALYSIS</p>
+						<p>CHEST XRAY</p>
+						<p>PHYSICAL EXAM</p>
+						<p>PACKAGE COST P300.00</p>
+					</div>
+				</li>
+				<li>
+					<h3>PACKAGE B</h3>
+					<div>
+						<p>CBC</p>
+						<p>URINALYSIS</p>
+						<p>FECALYSIS</p>
+						<p>CHEST XRAY</p>
+						<p>PHYSICAL EXAM</p>
+						<p>PACKAGE COST P350.00</p>
+					</div>
+				</li>
+				<li>
+					<h3>PACKAGE C</h3>
+					<div>
+						<p>CBC</p>
+						<p>URINALYSIS</p>
+						<p>FECALYSIS</p>
+						<p>12L ECG and/or PAP SMEAR</p>
+						<p>CHEST XRAY</p>
+						<p>PHYSICAL EXAM</p>
+						<p>PACKAGE COST P500.00 (WITH ECG), P650.00 (WITH PAP SMEAR),</p>
+						<p>P800 (WITH ECG AND PAP SMEAR)</p>
+					</div>
+				</li>
+				<
 			</ul>
 		</div>
 	</div>

@@ -16,10 +16,10 @@
 							Diagnostic Center
 						</li>
 						<li>
-							3952 Glen Falls Road
+							102-C City Corp Building  San Isidro, 
 						</li>
 						<li>
-							Wayne, PA 19088
+							City of San Fernando, Pampanga
 						</li>
 					</ul>
 				</li>
@@ -27,7 +27,10 @@
 					<span class="phone">telephone</span>
 					<ul>
 						<li>
-							215.859.9423
+							09328750856 
+						</li>
+						<li>
+							or (045)4553972  
 						</li>
 					</ul>
 				</li>
@@ -35,7 +38,7 @@
 					<span class="email">email</span>
 					<ul>
 						<li>
-							<a href="#">nyc@volumeone.com</a>
+							<a href="#">alphamed@gmail.com</a>
 						</li>
 					</ul>
 				</li>
@@ -43,7 +46,7 @@
 					<span class="twitter">twitter</span>
 					<ul>
 						<li>
-							<a href="#">@mattovolumeone</a>
+							<a href="#">@alphamed</a>
 						</li>
 					</ul>
 				</li>
@@ -51,7 +54,7 @@
 					<span class="facebook">facebook</span>
 					<ul>
 						<li>
-							<a href="#">www.facebook/illumelabs</a>
+							<a href="#">www.facebook/alphamed</a>
 						</li>
 					</ul>
 				</li>
@@ -60,20 +63,20 @@
 		<div class="content">
 			<img src="<?php echo base_url('/assets/images/laboratory.jpg'); ?>" alt="">
 			<h2>about</h2>
-			<h3>Alphamed</h3>
 			<p>
-				"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-			</p>
-			<h3>Alphamed</h3>
-			<p>
-				"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-			</p>
-			<h3>Alphamed</h3>
-			<p>
-				"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+				<strong>Affordability:</strong> Quality diagnostics need not be expensive. We ensure that our services are 30 percent lower compared with hospitals and other diagnostic laboratories. 
+
 			</p>
 			<p>
-				"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+				<strong>Reliability:</strong> We believe in providing the highest standards of service possible. Our staff are highly trained and utilize state of the art equipment for our clinical laboratory and ultrasound imaging.
+			</p>
+			<p>
+				<strong>Convenience.:</strong> Our diagnostic centre is conveniently located 
+				(just along Mac Arthur Hi-way in front of San Miguel Complex in San Fernando) with ample parking space and receiving area. 
+			</p>
+			<p>
+				<i><strong>“A reliable, convenient and affordable  diagnostic  laboratory is a vital component  in patient care”.</strong></i>
+
 			</p>
 		</div>
 	</div>
