@@ -15,7 +15,7 @@
             </div>
         </div>
 	</div>
-	<div id="section">
+	<!-- <div id="section">
 		<div>
 			<div>
 				<h1>accurate.reliable.fast</h1>
@@ -24,7 +24,7 @@
 				</p>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<div id="featured">
 		<div>
 			<div class="article">
