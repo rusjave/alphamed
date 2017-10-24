@@ -120,4 +120,10 @@ class Page extends CI_Controller {
 		$data['results'] = $search;
 		$this->load->view('public/results',$data);
 	}
+	/*
+		facilities page controller
+	*/
+	public function facilities() {
+		$this->load->view('public/facilities');
+	}
 }

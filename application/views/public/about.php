@@ -3,63 +3,6 @@
 ?>
 
 <div id="body">
-		<div class="sidebar">
-			<h3>contact</h3>
-			<ul>
-				<li>
-					<span class="address">address</span>
-					<ul>
-						<li>
-							Alphamed
-						</li>
-						<li>
-							Diagnostic Center
-						</li>
-						<li>
-							102-C City Corp Building  San Isidro, 
-						</li>
-						<li>
-							City of San Fernando, Pampanga
-						</li>
-					</ul>
-				</li>
-				<li>
-					<span class="phone">telephone</span>
-					<ul>
-						<li>
-							09328750856 
-						</li>
-						<li>
-							or (045)4553972  
-						</li>
-					</ul>
-				</li>
-				<li>
-					<span class="email">email</span>
-					<ul>
-						<li>
-							<a href="#">alphamed@gmail.com</a>
-						</li>
-					</ul>
-				</li>
-				<li>
-					<span class="twitter">twitter</span>
-					<ul>
-						<li>
-							<a href="#">@alphamed</a>
-						</li>
-					</ul>
-				</li>
-				<li>
-					<span class="facebook">facebook</span>
-					<ul>
-						<li>
-							<a href="#">www.facebook/alphamed</a>
-						</li>
-					</ul>
-				</li>
-			</ul>
-		</div>
 		<div class="content">
 			<img src="<?php echo base_url('/assets/images/laboratory.jpg'); ?>" alt="">
 			<h2>about</h2>

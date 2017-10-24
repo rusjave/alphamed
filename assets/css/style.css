@@ -45,7 +45,7 @@ body {
 #header ul li {
 	float: left;
 	list-style: none;
-	margin: 0 0 0 115px;
+	margin: 0 0 0 88px;
 	;
 	padding: 0;
 }
@@ -838,4 +838,8 @@ body {
 .admin-section h1 {
 	text-align: center;
 	color: #588181
+}
+
+.contact-section #body {
+	min-height: 400px !important;
 }

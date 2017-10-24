@@ -6,11 +6,14 @@
  
             <div class="banner" id="lazyload">
                 <ul>
-                    <li><img data-src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/05/02/ChMkJ1bxATiIVlzmAAlJIHaXmLkAAOTUgN32YEACUk4716.jpg"></li>
-                    <li><img data-src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/05/02/ChMkJ1bxATaIevuuABYRrSzYfikAAOTUgI7dk0AFhHF290.jpg"></li>
-                    <li><img data-src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/05/02/ChMkJ1bxATyIHmOaAA427DMtOHcAAOTUwGiFqgADjcE489.jpg"></li>
-                    <li><img data-src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/05/02/ChMkJlbxAUCIMqKdAAMVx51HXogAAOTUwP6tOQAAxXf894.jpg"></li>
-                    <li><img data-src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/05/02/ChMkJlbxATqIBOwbAAt1D9lCvKkAAOTUwB9S5IAC3Un823.jpg"></li>
+                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider1.jpg'); ?>" style="height: 758.8px; width: 1349px;"></li>
+                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider2.jpg'); ?>"  style="height: 758.8px; width: 1349px;"></li>
+                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider3.jpg'); ?>"  style="height: 758.8px; width: 1349px;"></li>
+                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider4.jpg'); ?>"  style="height: 758.8px; width: 1349px;"></li>
+                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider5.jpg'); ?>"  style="height: 758.8px; width: 1349px;"></li>
+                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider6.jpg'); ?>"  style="height: 758.8px; width: 1349px;"></li>
+                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider7.jpg'); ?>"  style="height: 758.8px; width: 1349px;"></li>
+                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider8.jpg'); ?>"  style="height: 758.8px; width: 1349px;"></li>
                 </ul>
             </div>
         </div>
@@ -30,6 +33,12 @@
 			<div class="article">
 				<h2>Welcome to Alphamed Diagnostic Center</h2>
 				<img src="<?php echo base_url('assets/images/diagnostic-center.jpg'); ?>" alt="">
+				<h3 style="color: #588181;
+					font-size: 19px;
+					font-weight: normal;
+					margin: 0;
+					padding: 30px !important;
+					text-transform: capitalize;">Company Culture and Ethos</h3>
 				<p>
 					<strong>Affordability:</strong> Quality diagnostics need not be expensive. We ensure that our services are 30 percent lower compared with hospitals and other diagnostic laboratories. 
 

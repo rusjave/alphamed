@@ -20,6 +20,9 @@
 			</li>
 			<li class="selected">
 				<a href="<?php echo base_url('/page/services');?>">services</a>
+			<li class="selected">
+				<a href="<?php echo base_url('page/facilities');?>">facilities</a>
+			</li>
 			</li>
 			<li class="selected">
 				<a href="<?php echo base_url('/page/locations');?>">our locations</a>
