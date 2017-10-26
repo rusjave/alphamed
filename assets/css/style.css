@@ -16,12 +16,11 @@ body {
 	padding: 0;
 }
 #header {
-	/*background: url(../images/bg-header.jpg) repeat-x;*/
+	background: url(../images/banner.png) no-repeat;
 	margin: 0;
-	padding: 0px 0 0;
+	padding: 125px 0 0;
 }
 #header .header-logo {
-	background-color: #993332;
 	padding: 15px;
 }
 #header a.logo {

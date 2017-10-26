@@ -9,7 +9,7 @@
 </head>
 <body>
 	<div id="header">
-		<div class="header-logo"><a href="<?php echo base_url('/');?>" class="logo"><img src="<?php echo base_url('/assets/images/alphamed-logo.png'); ?>" alt="alphamed-logo." style="height: 93px;"></a></div>
+		<div class="header-logo"><a href="<?php echo base_url('/');?>" class="logo"></a></div>
 		<ul>
 			<li class="selected">
 			<!-- 	<a href="/">home</a> -->
