@@ -8,8 +8,9 @@
 	<link href="<?php echo base_url('/assets/css/slider.css'); ?>" rel="stylesheet">
 </head>
 <body>
+	<div class="banner-main"></div>
 	<div id="header">
-		<div class="header-logo"><a href="<?php echo base_url('/');?>" class="logo"></a></div>
+		<!-- <div class="header-logo"><a href="<?php echo base_url('/');?>" class="logo"></a></div> -->
 		<ul>
 			<li class="selected">
 			<!-- 	<a href="/">home</a> -->

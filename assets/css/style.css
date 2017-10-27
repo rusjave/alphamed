@@ -15,11 +15,15 @@ body {
 	min-width: 960px;
 	padding: 0;
 }
-#header {
+
+.banner-main {
 	background: url(../images/banner.png) no-repeat;
 	margin: 0;
-	padding: 125px 0 0;
+	padding: 265px 0 0;
+	position: relative;
+	background-size: 100%;
 }
+
 #header .header-logo {
 	padding: 15px;
 }
