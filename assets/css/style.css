@@ -846,3 +846,16 @@ body {
 .contact-section #body {
 	min-height: 400px !important;
 }
+
+.our-locations-content #body .content {
+    float: left;
+    margin: 0 10px 0 20px;
+    padding: 0;
+    width: 100%;
+}
+.about-content  #body .content {
+    float: left;
+    margin: 0 10px 0 20px;
+    padding: 0;
+    padding: 115px;
+}

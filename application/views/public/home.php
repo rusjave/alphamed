@@ -6,11 +6,11 @@
  
             <div class="banner" id="lazyload">
                 <ul>
-                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider1.jpg'); ?>" style="height: 538.8px; width: 100%;"></li>
+             		<li><img data-src="<?php echo base_url('assets/images/alphamed-slider5.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
                      <li><img data-src="<?php echo base_url('assets/images/alphamed-slider2.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
                      <li><img data-src="<?php echo base_url('assets/images/alphamed-slider3.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
                      <li><img data-src="<?php echo base_url('assets/images/alphamed-slider4.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
-                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider5.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
+                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider1.jpg'); ?>" style="height: 538.8px; width: 100%;"></li>
                      <li><img data-src="<?php echo base_url('assets/images/alphamed-slider6.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
                      <li><img data-src="<?php echo base_url('assets/images/alphamed-slider7.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
                      <li><img data-src="<?php echo base_url('assets/images/alphamed-slider8.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>

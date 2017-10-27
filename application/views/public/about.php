@@ -2,7 +2,8 @@
 	$this->load->view('public/_includes/header');
 ?>
 
-<div id="body">
+<div class="about-content">	
+		<div id="body">
 		<div class="content">
 			<img src="<?php echo base_url('/assets/images/laboratory.jpg'); ?>" alt="">
 			<h2>about</h2>
@@ -22,8 +23,8 @@
 
 			</p>
 		</div>
-	</div>
-
+</div>
+</div>
 <?php
 	$this->load->view('public/_includes/footer');
 ?>
