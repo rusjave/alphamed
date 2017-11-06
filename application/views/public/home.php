@@ -1,96 +1,90 @@
 <?php
 	$this->load->view('public/_includes/header');
 ?>
+<section class="section-white">
+  <div class="container">
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+      </ol>
 
-        <div class="container lazyload" id="anchor-6">
- 
-            <div class="banner" id="lazyload">
-                <ul>
-             		<li><img data-src="<?php echo base_url('assets/images/alphamed-slider5.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
-                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider2.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
-                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider3.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
-                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider4.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
-                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider1.jpg'); ?>" style="height: 538.8px; width: 100%;"></li>
-                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider6.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
-                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider7.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
-                     <li><img data-src="<?php echo base_url('assets/images/alphamed-slider8.jpg'); ?>"  style="height: 538.8px; width: 100%;"></li>
-                </ul>
-            </div>
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="<?php echo base_url('assets/images/alphamed-slider5.jpg'); ?>"  style="height: 450px; width: 100%;" alt="...">
+          <div class="carousel-caption">
+            <h2></h2>
+          </div>
         </div>
-	</div>
-	<!-- <div id="section">
-		<div>
-			<div>
-				<h1>accurate.reliable.fast</h1>
-				<p>
-					When it comes to finding answers to questions and getting results. Illumelabs is number one. No other diagnostic laboratory is faster, more reliable and accurate. Choose Alphamed.
-				</p>
-			</div>
-		</div>
-	</div> -->
+        <div class="item">
+        <img src="<?php echo base_url('assets/images/alphamed-slider2.jpg'); ?>"  style="height: 450px; width: 100%;" alt="...">
+          <div class="carousel-caption">
+            <h2></h2>
+          </div>
+        </div>
+        <div class="item">
+          <img src="<?php echo base_url('assets/images/alphamed-slider3.jpg'); ?>"  style="height: 450px; width: 100%;" alt="...">
+          <div class="carousel-caption">
+            <h2></h2>
+          </div>
+        </div>
+        <div class="item">
+          <img src="<?php echo base_url('assets/images/alphamed-slider4.jpg'); ?>"  style="height: 450px; width: 100%;" alt="...">
+          <div class="carousel-caption">
+            <h2></h2>
+          </div>
+        </div>
+        <div class="item">
+          <img src="<?php echo base_url('assets/images/alphamed-slider6.jpg'); ?>"  style="height: 450px; width: 100%;" alt="...">
+          <div class="carousel-caption">
+            <h2></h2>
+          </div>
+        </div>
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+      </a>
+    </div>
+
+  </div>
+</section>
+ 
+<div class="home-page-section-1">
 	<div id="featured">
 		<div>
-			<div class="article">
+			<div class="section-1">
 				<h2>Welcome to Alphamed Diagnostic Center</h2>
-				<img src="<?php echo base_url('assets/images/diagnostic-center.jpg'); ?>" alt="">
-				<h3 style="color: #588181;
-					font-size: 19px;
-					font-weight: normal;
-					margin: 0;
-					padding: 30px !important;
-					text-transform: capitalize;">Company Culture and Ethos</h3>
-				<p>
-					<strong>Affordability:</strong> Quality diagnostics need not be expensive. We ensure that our services are 30 percent lower compared with hospitals and other diagnostic laboratories. 
-
-				</p>
-				<p>
-					<strong>Reliability:</strong> We believe in providing the highest standards of service possible. Our staff are highly trained and utilize state of the art equipment for our clinical laboratory and ultrasound imaging.
-
-				</p>
-				<p>
-					<i><strong>“A reliable, convenient and affordable  diagnostic  laboratory is a vital component  in patient care”.</strong></i>
-
-				</p>
 			</div>
-			<ul>
-				<li>
-					<h3>PACKAGE A</h3>
-					<div>
-						<p>CBC</p>
-						<p>URINALYSIS</p>
-						<p>CHEST XRAY</p>
-						<p>PHYSICAL EXAM</p>
-						<p>PACKAGE COST P300.00</p>
-					</div>
-				</li>
-				<li>
-					<h3>PACKAGE B</h3>
-					<div>
-						<p>CBC</p>
-						<p>URINALYSIS</p>
-						<p>FECALYSIS</p>
-						<p>CHEST XRAY</p>
-						<p>PHYSICAL EXAM</p>
-						<p>PACKAGE COST P350.00</p>
-					</div>
-				</li>
-				<li>
-					<h3>PACKAGE C</h3>
-					<div>
-						<p>CBC</p>
-						<p>URINALYSIS</p>
-						<p>FECALYSIS</p>
-						<p>12L ECG and/or PAP SMEAR</p>
-						<p>CHEST XRAY</p>
-						<p>PHYSICAL EXAM</p>
-						<p>PACKAGE COST P500.00 (WITH ECG), P650.00 (WITH PAP SMEAR),</p>
-						<p>P800 (WITH ECG AND PAP SMEAR)</p>
-					</div>
-				</li>
-				
-			</ul>
-		</div>
+			<div class="home-content">
+				<h4>Trust the FASTEST growing diagnostic laboratory in Pampanga!</h4>
+				<h4>With 3 conveniently located branches and soon to open in Mabalacat</h4>
+					<ul>
+				      	<li>No need to wait for your results, we will email them directly to your doctor or to you, or download directly from our website</li>
+					</ul>
+				 <h4>Value for Money</h4>
+				 	<ul>
+				     	<li>Avail of our Loyalty card and get great discounts and freebies!</li>
+				     	<li>Get free ECG!</li>
+					</ul>
+				<h4>We care for you</h4>	
+					<ul>
+				     	<li>Enjoy free coffee and biscuits after blood extraction</li>
+					</ul>	
+			</div>		
+		</div>	
 	</div>
+</div>
+	
 
 <?php
 	$this->load->view('public/_includes/footer');

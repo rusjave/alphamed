@@ -48,7 +48,7 @@ body {
 #header ul li {
 	float: left;
 	list-style: none;
-	margin: 0 0 0 88px;
+	margin: 0 0 0 77px;
 	;
 	padding: 0;
 }
@@ -155,14 +155,14 @@ body {
 #featured div .article p a:hover {
 	color: #333;
 }
-#featured div ul {
+/*#featured div ul {
 	float: left;
 	margin: 0;
 	overflow: hidden;
 	padding: 0;
 	width: 480px;
-}
-#featured div ul li {
+}*/
+/*#featured div ul li {
 	border: 1px solid #fff;
 	background: #fff;
 	cursor: pointer;
@@ -172,7 +172,7 @@ body {
 	padding: 0;
 	position: relative;
 	width: 218px;
-}
+}*/
 #featured div ul li h3 {
 	background: #993332;
 	color: #ffe600;
@@ -485,10 +485,10 @@ body {
 	float: left;
 	font-family: 'Conv_Ubuntu-Light';
 	font-size: 14px;
-	height: 21px;
+	height: 37px;
 	margin: 0;
 	padding: 3px 5px;
-	width: 308px;
+	width: 425px;
 }
 #body .content form label textarea {
 	border: 1px solid #94acb3;
@@ -846,6 +846,56 @@ body {
 .contact-section #body {
 	min-height: 400px !important;
 }
+.about-content  #body .content {
+    float: left;
+    margin: 0 10px 0 20px;
+    padding: 0;
+    padding: 115px;
+}
+
+/* Slider */
+/* Makes images fully responsive */
+
+.img-responsive,
+.thumbnail > img,
+.thumbnail a > img,
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/
+
+/* HOME PAGE */
+
+.home-page-section-1 .section-1 {
+    margin: 0 !important;
+    padding: 30px !important;
+    width: 100% !important;
+    text-align: center !important;
+}
+.home-page-section-1 #featured div h2{
+	font-size: 36px;
+	text-align: center;
+	padding: 30px;
+	color: #97aeb3;
+}
+
+
+.home-page-section-1 #featured h4{
+	color: #767676;
+	padding: 10px;
+}
+
+.home-page-section-1 #featured .home-content{
+	padding-left: 150px;
+	padding-bottom: 50px;
+}
+
+
+/* OUR LOCATIONS */
 
 .our-locations-content #body .content {
     float: left;
@@ -853,9 +903,56 @@ body {
     padding: 0;
     width: 100%;
 }
-.about-content  #body .content {
-    float: left;
-    margin: 0 10px 0 20px;
+
+.our-locations-content h4 {
+    color: #767676;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+/* CONTACT US */
+.contact-section #body .content form #submit {
+    background: url(../images/button-submit.png) no-repeat 0 0;
+    border: 0;
+    cursor: pointer;
+    display: block;
+    height: 38px;
+    margin: 8px 0 0 125px;
     padding: 0;
-    padding: 115px;
+    width: 142px;
+}
+
+.contact-section #body .sidebar ul li {
+    color: #fff;
+    font-size: 11px;
+    list-style: none;
+    line-height: 30px;
+    margin: 0;
+}
+/* ------------------- Section Styling - Not needed for carousel styling ------------------- */
+
+.section-white {
+   padding: 10px 0;
+}
+
+.section-white {
+  background-color: #fff;
+  color: #555;
+}
+
+@media screen and (min-width: 768px) {
+
+  .section-white {
+     padding: 1.5em 0;
+  }
+
+}
+
+@media screen and (min-width: 992px) {
+
+  .container {
+    max-width: 930px;
+  }
+
 }
