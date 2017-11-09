@@ -10,37 +10,30 @@
         <li data-target="#carousel-example-generic" data-slide-to="1"></li>
         <li data-target="#carousel-example-generic" data-slide-to="2"></li>
         <li data-target="#carousel-example-generic" data-slide-to="3"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="4"></li>
       </ol>
 
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
         <div class="item active">
-          <img src="<?php echo base_url('assets/images/alphamed-slider5.jpg'); ?>"  style="height: 450px; width: 100%;" alt="...">
+          <img src="<?php echo base_url('assets/images/alpha-slider-1.png'); ?>"  style="height: 450px; width: 100%;" alt="...">
           <div class="carousel-caption">
             <h2></h2>
           </div>
         </div>
         <div class="item">
-        <img src="<?php echo base_url('assets/images/alphamed-slider2.jpg'); ?>"  style="height: 450px; width: 100%;" alt="...">
+        <img src="<?php echo base_url('assets/images/alpha-slider-2.png'); ?>"  style="height: 450px; width: 100%;" alt="...">
           <div class="carousel-caption">
             <h2></h2>
           </div>
         </div>
         <div class="item">
-          <img src="<?php echo base_url('assets/images/alphamed-slider3.jpg'); ?>"  style="height: 450px; width: 100%;" alt="...">
+          <img src="<?php echo base_url('assets/images/alpha-slider-3.png'); ?>"  style="height: 450px; width: 100%;" alt="...">
           <div class="carousel-caption">
             <h2></h2>
           </div>
         </div>
         <div class="item">
-          <img src="<?php echo base_url('assets/images/alphamed-slider4.jpg'); ?>"  style="height: 450px; width: 100%;" alt="...">
-          <div class="carousel-caption">
-            <h2></h2>
-          </div>
-        </div>
-        <div class="item">
-          <img src="<?php echo base_url('assets/images/alphamed-slider6.jpg'); ?>"  style="height: 450px; width: 100%;" alt="...">
+          <img src="<?php echo base_url('assets/images/alpha-slider-4.png'); ?>"  style="height: 450px; width: 100%;" alt="...">
           <div class="carousel-caption">
             <h2></h2>
           </div>
