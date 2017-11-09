@@ -1,7 +1,7 @@
 <?php
 	$this->load->view('public/_includes/header');
 ?>
-
+<div class="facilities-section">
 	<div id="body">
 		<h2 style="color: #97aeb3;
 font-size: 24px;
@@ -13,7 +13,7 @@ text-align: center;">Facilities</h2>
 		<ul>
 			<li>
 				<div class="figure">
-					 <img src="<?php echo base_url('/assets/images/laboratory-services.jpg'); ?>" alt="">
+					 <img src="<?php echo base_url('/assets/images/lab-1.png'); ?>" alt="">
 				</div>
 				<div class="article">
 					<h2 style="color: #94acb3;
@@ -39,7 +39,7 @@ text-align: center;">Facilities</h2>
 			</li>
 			<li>
 				<div class="figure">
-					 <img src="<?php echo base_url('/assets/images/laboratory-services.jpg'); ?>" alt="">
+					 <img src="<?php echo base_url('/assets/images/lab-2.png'); ?>" alt="">
 				</div>
 				<div class="article">
 					<h2 style="color: #94acb3;
@@ -48,7 +48,7 @@ text-align: center;">Facilities</h2>
 					margin: 0;
 					padding: 0px 0 12px;
 					text-transform: capitalize;">
-						Mindray BC-3200 Auto 
+						PHILIPS CLEARVIEW 550 
 					</h2>
 					<ul>
 						<li>
@@ -62,7 +62,7 @@ text-align: center;">Facilities</h2>
 			</li>
 			<li>
 				<div class="figure">
-					 <img src="<?php echo base_url('/assets/images/laboratory-services.jpg'); ?>" alt="">
+					 <img src="<?php echo base_url('/assets/images/lab-3.png'); ?>" alt="">
 				</div>
 				<div class="article">
 					<h2 style="color: #94acb3;
@@ -71,7 +71,7 @@ text-align: center;">Facilities</h2>
 					margin: 0;
 					padding: 0px 0 12px;
 					text-transform: capitalize;">
-						Terason T3000 Ultrasound
+						2DECHO W/ DOPPLER AND GENERAL ULTRASOUND
 					</h2>
 					<ul>
 						<li>
@@ -84,16 +84,10 @@ text-align: center;">Facilities</h2>
 				</div>
 			</li>
 		</ul>
-		<h3 style="color: #94acb3;
-		font-size: 16px;
-		display: block;
-		margin: 0;
-		padding: 31px;
-		text-transform: capitalize;">Convenience.</h3>
-		<p style="padding: 1px;padding-left: 30px;padding-right: 30px;line-height: 21px;">Our diagnostic centre is conveniently located (just along Mac Arthur Hi-way in front of San Miguel Complex in San Fernando) with ample parking space and receiving area. 
-		</p>
 	</div>
 
+</div>
+	
 <?php
 	$this->load->view('public/_includes/footer');
 ?>

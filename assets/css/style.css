@@ -846,11 +846,41 @@ body {
 .contact-section #body {
 	min-height: 400px !important;
 }
+
+/* ABOUT US */
+
 .about-content  #body .content {
-    float: left;
-    margin: 0 10px 0 20px;
+    /*float: left;*/
+    margin: 0px;
+    padding-right: 25px;
+    padding-left: 25px;
+    width: 100%;
+}
+
+.about-content  #body img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    height: 185px;
+}
+
+.about-content #body .content h3 {
+    background: url(../images/icons.png) no-repeat 95px -350px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 30px;
+    margin: 0;
     padding: 0;
-    padding: 115px;
+    text-indent: 30px;
+    color: #97aeb3;
+
+}
+
+/* FACILITIES */
+
+.facilities-section #body .figure img{
+	height: 200px;
 }
 
 /* Slider */

@@ -1,7 +1,7 @@
 <div id="footer">
 		<div>
 			<p>
-				<span>2023 &copy; Alphamed Diagnostic Center.</span><a href="#" >Terms of Service</a> | <a href="#" >Privacy Policy</a>
+				<span>2017 &copy; Alphamed Diagnostic Center.</span><a href="#" >Terms of Service</a> | <a href="#" >Privacy Policy</a>
 			</p>
 			<ul>
 				<li id="facebook">
