@@ -223,7 +223,7 @@ body {
 #body {
 	background: url(../images/bg-content.jpg) repeat;
 	margin: 0 auto;
-	min-height: 1100px;
+	height: auto;
 	overflow: hidden;
 	padding: 20px 0;
 	width: 960px;
