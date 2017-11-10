@@ -309,7 +309,7 @@ body {
 	font-size: 24px;
 	font-weight: normal;
 	margin: 0;
-	padding: 20px 0;
+	padding: 30px 0;
 	text-transform: capitalize;
 	text-align: center;
 }
@@ -926,6 +926,23 @@ body {
 
 
 /* OUR LOCATIONS */
+
+.our-locations-content #body .col-md-8 h4 {
+    border: 1px solid #a1c8ba;
+	background: #e5f5ef;
+	padding: 9px;
+	margin: 0 0 15px 0;
+	font: bold 10pt Arial;
+	width: 600px;
+}
+
+.our-locations-content #body hr {
+    width: 750px;
+}
+
+.our-locations-content #body .col-md-2 p{
+   	padding-left: 15px;
+}
 
 .our-locations-content #body .content {
     float: left;
