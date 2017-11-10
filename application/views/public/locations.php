@@ -34,6 +34,7 @@
 				<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=B. Mendoza St. CSFP Makabali Pamapnga&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="http://www.embedgooglemap.net">embed google map</a></div><style>.mapouter{overflow:hidden;height:500px;width:600px;}.gmap_canvas {background:none!important;height:500px;width:600px;}</style></div>
 			</div>
 		</div>
+		<hr>
 		<div class="row">
 			<div class="col-md-2">
 				
