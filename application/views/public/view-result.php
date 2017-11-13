@@ -5,7 +5,7 @@
 		<div id=body>
 			<div class="content">
 				<h2>Search Lab Results</h2>
-				<form action="/" method="POST">
+				<form action="/pdf" method="POST">
 					<label for="firstName">
 						<input name="keyword" type="text" placeholder="Please enter your id number">
 					</label>

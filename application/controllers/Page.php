@@ -71,6 +71,15 @@ class Page extends CI_Controller {
 		$this->load->view('public/results');
 
 	}
+		/*
+		pdf page controller
+	*/
+	public function pdf()
+	{
+
+		$this->load->view('public/pdf');
+
+	}
 	/*
 		login page controller
 	*/

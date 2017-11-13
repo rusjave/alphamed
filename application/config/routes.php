@@ -69,3 +69,5 @@ $route['doctor-logins'] = 'page/login';
 $route['viewresults'] = 'page/viewresults';
 
 $route['facilities'] = 'page/facilities';
+
+$route['pdf'] = 'page/pdf';
