@@ -6,9 +6,9 @@
 			<div class="content">
 				<h2><u>Patient Name: Torress, Eulalia</u></h2>
 				<ul>
-					<li><a href="<?php echo base_url('assets/pdf/TR440853-T6440853-TORRES-EULALIA-SANTOS-historical_clinicalchemistry.pdf'); ?>">TR440853-T6440853-TORRES-EULALIA-SANTOS-historical_clinicalchemistry.pdf</a></li>
+					<li><a  target="_blank" href="<?php echo base_url('assets/pdf/TR440853-T6440853-TORRES-EULALIA-SANTOS-historical_clinicalchemistry.pdf'); ?>">TR440853-T6440853-TORRES-EULALIA-SANTOS-historical_clinicalchemistry.pdf</a></li>
 					<li>
-				<a href="<?php echo base_url('assets/pdf/TR440853-T6440853-TORRES-EULALIA-SANTOS.pdf'); ?>">TR440853-T6440853-TORRES-EULALIA-SANTOS.pdf</a></li>
+				<a  target="_blank" href="<?php echo base_url('assets/pdf/TR440853-T6440853-TORRES-EULALIA-SANTOS.pdf'); ?>">TR440853-T6440853-TORRES-EULALIA-SANTOS.pdf</a></li>
 				</ul>
 			</div>	
 		</div>
