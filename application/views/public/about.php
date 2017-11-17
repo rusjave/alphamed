@@ -52,7 +52,6 @@
         }(document, 'script', 'facebook-jssdk'));
 </script>
 
-
 <?php
 	$this->load->view('public/_includes/footer');
 ?>
