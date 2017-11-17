@@ -849,6 +849,12 @@ body {
 
 /* ABOUT US */
 
+.about-content {
+    background: url(../images/bg-content.jpg) repeat;
+    margin: 0;
+    padding: 20px;
+}
+
 .about-content  #body .content {
     /*float: left;*/
     margin: 0px;
@@ -857,7 +863,18 @@ body {
     width: 100%;
 }
 
-.about-content  #body img {
+.about-content  .col-md-7 h2 {
+    color: #97aeb3;
+    font-size: 24px;
+    font-weight: normal;
+    margin: 0;
+    padding: 30px 0;
+    text-transform: capitalize;
+    text-align: center;
+
+   }
+
+.about-content  .col-md-7 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -865,7 +882,15 @@ body {
     height: 185px;
 }
 
-.about-content #body .content h3 {
+
+.about-content  .col-md-7  p{
+    color: #767676;
+    line-height: 30px;
+    margin: 0;
+    padding: 20px 0;
+}
+
+.about-content .col-md-7  h3 {
     background: url(../images/icons.png) no-repeat 95px -350px;
     font-size: 14px;
     font-weight: normal;
