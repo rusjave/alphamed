@@ -1273,7 +1273,102 @@ font-size: 13px;
 }
 
 /* CONTACT US */
-.contact-section #body .content form #submit {
+
+
+.contact-content {
+    background: url(../images/bg-content.jpg) repeat;
+    margin: 0;
+    padding: 20px;
+}
+
+.contact-content .col-md-7 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 230px;
+	width: 700px;
+	border: 1px solid #fff;
+}
+
+.contact-content .content-1 h3 {
+    background: url(../images/icons.png) no-repeat 0 -350px;
+    color: #767676;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 30px;
+    margin: 0;
+    padding: 0;
+    text-indent: 30px;
+    font-weight: 600;
+}
+
+.contact-content .content-1 ul {
+    font-size: 12px;
+    line-height: 30px;
+}
+.contact-content .content-1 {
+   	margin-left: auto;
+	margin-right: auto;
+	width: 71%;
+	padding: 25px;
+}
+ 
+.contact-content h2 {
+	color: #97aeb3;
+	font-size: 24px;
+	font-weight: normal;
+	margin: 0;
+	padding: 30px 0;
+	text-transform: capitalize;
+   
+}
+
+.contact-content  form label {
+    display: block;
+    margin: 0;
+    overflow: hidden;
+    padding: 10px 0;
+}
+
+.contact-content  form label span {
+    color: #767676;
+    display: block;
+    float: left;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    width: 130px;
+}
+
+.contact-content  form label input {
+    border: 1px solid #94acb3;
+    color: #767676;
+    display: block;
+    float: left;
+    font-family: 'Conv_Ubuntu-Light';
+    font-size: 14px;
+    height: 37px;
+    margin: 0;
+    padding: 3px 5px;
+    width: 67%;
+}
+
+.contact-content  form label textarea {
+    border: 1px solid #94acb3;
+    color: #767676;
+    display: block;
+    float: left;
+    font-family: 'Conv_Ubuntu-Light';
+    font-size: 14px;
+    height: 147px;
+    margin: 0;
+    overflow: auto;
+    padding: 5px;
+    width: 528px;
+}
+
+.contact-content form #submit {
     background: url(../images/button-submit.png) no-repeat 0 0;
     border: 0;
     cursor: pointer;
@@ -1284,12 +1379,15 @@ font-size: 13px;
     width: 142px;
 }
 
-.contact-section #body .sidebar ul li {
-    color: #fff;
-    font-size: 11px;
-    list-style: none;
-    line-height: 30px;
-    margin: 0;
+
+.contact-content .panel-default > .panel-heading {
+    color: #ffe600;
+    background-color: #993332;
+    border-color: #993332;
+}
+
+.contact-content .panel-default .panel-body .list-unstyled {
+	line-height: 30px !important;
 }
 /* ------------------- Section Styling - Not needed for carousel styling ------------------- */
 
