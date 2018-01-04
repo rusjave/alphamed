@@ -705,7 +705,7 @@ body {
 	float: right;
 	margin: 0;
 	overflow: hidden;
-	padding: 0;
+	padding: 15px;
 }
 #footer div ul li {
 	float: left;

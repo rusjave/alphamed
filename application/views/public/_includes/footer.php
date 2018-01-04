@@ -1,7 +1,7 @@
 <div id="footer">
 		<div>
 			<p>
-				<span>2017 &copy; Alphamed Diagnostic Center.</span><a href="#" >Terms of Service</a> | <a href="#" >Privacy Policy</a>
+				<span><img src="<?php echo base_url('assets/images/alphamed_logo.png'); ?>"  style="height: 65px; width: 80px;" alt="...">2017 &copy; Alphamed Diagnostic Center.</span>
 			</p>
 			<ul>
 				<li id="facebook">
