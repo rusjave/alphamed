@@ -7,13 +7,12 @@
 ?>
  
 <div class="home-content">
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">
-            <div class="col-md-3">
-               <img src="<?php echo base_url('assets/images/alphamed-slider3.jpg'); ?>"  style="height: 300px; width: 100%; padding: 20px;" alt="...">
-               <img alt="140x140" data-src="holder.js/140x140" class="img-rounded" style="width: 100%; height: 300px; padding: 20px;" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgdmlld0JveD0iMCAwIDE0MCAxNDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzE0MHgxNDAKQ3JlYXRlZCB3aXRoIEhvbGRlci5qcyAyLjYuMC4KTGVhcm4gbW9yZSBhdCBodHRwOi8vaG9sZGVyanMuY29tCihjKSAyMDEyLTIwMTUgSXZhbiBNYWxvcGluc2t5IC0gaHR0cDovL2ltc2t5LmNvCi0tPjxkZWZzPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+PCFbQ0RBVEFbI2hvbGRlcl8xNWZjNGE0ODE3YyB0ZXh0IHsgZmlsbDojQUFBQUFBO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1mYW1pbHk6QXJpYWwsIEhlbHZldGljYSwgT3BlbiBTYW5zLCBzYW5zLXNlcmlmLCBtb25vc3BhY2U7Zm9udC1zaXplOjEwcHQgfSBdXT48L3N0eWxlPjwvZGVmcz48ZyBpZD0iaG9sZGVyXzE1ZmM0YTQ4MTdjIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI0VFRUVFRSIvPjxnPjx0ZXh0IHg9IjQzLjUiIHk9Ijc0LjgiPjE0MHgxNDA8L3RleHQ+PC9nPjwvZz48L3N2Zz4=" data-holder-rendered="true">
+            <div class="col-md-4">
+               <img src="<?php echo base_url('assets/images/alphamed-slider3.jpg'); ?>"  style="height: 500px; width: 370px; padding: 20px;" alt="...">
             </div>
-            <div class="col-md-9">             
+            <div class="col-md-8">             
                 <h2>Welcome to Alphamed Diagnostic Center</h2>
                 <div class="home-content-1">
                     <h4>Trust the FASTEST growing diagnostic laboratory in Pampanga!</h4>
@@ -30,11 +29,8 @@
                         <ul>
                             <li>Enjoy free coffee and biscuits after blood extraction</li>
                         </ul>    
-                </div>
-               
-            <!-- </div>
-            <div class="col-md-3">
-            </div> -->
+                </div> 
+            </div>
         </div>
     </div>
 </div>

@@ -863,7 +863,7 @@ body {
     width: 100%;
 }
 
-.about-content  .col-md-7 h2 {
+.about-content  .col-md-8 h2 {
     color: #97aeb3;
     font-size: 24px;
     font-weight: normal;
@@ -874,7 +874,7 @@ body {
 
    }
 
-.about-content  .col-md-7 img {
+.about-content  .col-md-8 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -883,15 +883,15 @@ body {
 }
 
 
-.about-content  .col-md-7  p{
+.about-content  .col-md-8  p{
     color: #767676;
     line-height: 30px;
     margin: 0;
     padding: 20px 0;
 }
 
-.about-content .col-md-7  h3 {
-    background: url(../images/icons.png) no-repeat 95px -350px;
+.about-content .col-md-8  h3 {
+    background: url(../images/icons.png) no-repeat 0px -350px;
     font-size: 14px;
     font-weight: normal;
     line-height: 30px;
@@ -922,8 +922,7 @@ body {
 }
 
 .services-content .col-md-2 p{
-    float: right;
-	padding-right: 20px;
+	padding-left: 20px;
 }
 
 .services-content .col-md-2  {
@@ -931,11 +930,11 @@ body {
 }
 
 
-.services-content .col-md-7 {
+.services-content .col-md-8 {
 	padding-top: 30px;
 }
 
-.services-content .col-md-7 h4{
+.services-content .col-md-8 h4{
     border: 1px solid #a1c8ba;
 	background: #e5f5ef;
 	padding: 9px;
@@ -952,7 +951,7 @@ body {
     width: 100%;
 }
 
-.services-content  .col-md-7 h2 {
+.services-content  .col-md-8 h2 {
     color: #97aeb3;
     font-size: 24px;
     font-weight: normal;
@@ -963,7 +962,7 @@ body {
 
    }
 
-.services-content  .col-md-7 img {
+.services-content  .col-md-8 img {
     display: block;
     padding: 20px;
     height: 185px;
@@ -971,14 +970,14 @@ body {
 }
 
 
-.services-content  .col-md-7  p{
+.services-content  .col-md-8  p{
     color: #767676;
     line-height: 30px;
     margin: 0;
     padding: 20px 0;
 }
 
-.services-content .col-md-7  h3 {
+.services-content .col-md-8  h3 {
     background: url(../images/icons.png) no-repeat 95px -350px;
     font-size: 14px;
     font-weight: normal;
@@ -990,7 +989,7 @@ body {
 
 }
 
-.services-content .col-md-7 h2{
+.services-content .col-md-8 h2{
     color: #94acb3;
     font-size: 24px;
     display: block;
@@ -999,7 +998,7 @@ body {
     text-transform: capitalize;
 }
 
- .services-content .col-md-7 ul li .article {
+ .services-content .col-md-8 ul li .article {
     float: left;
     margin: 0;
     padding: 0;
@@ -1007,13 +1006,13 @@ body {
     width: 690px;
 }
 
- .services-content .col-md-7 .article ul {
+ .services-content .col-md-8 .article ul {
     float: left;
     margin: 0;
     padding: 0;
 }
 
-.services-content .col-md-7 .article ul li{
+.services-content .col-md-8 .article ul li{
    color: #767676;
 display: block;
 line-height: 30px;
@@ -1025,7 +1024,7 @@ width: 170px;
 font-size: 13px;
 }
 
- .services-content .col-md-7 .article ul li a {
+ .services-content .col-md-8 .article ul li a {
     color: #767676;
     text-decoration: none;
     text-transform: uppercase;
@@ -1067,7 +1066,7 @@ font-size: 13px;
 	text-transform: capitalize;
 }
 
-.facilities-content  .col-md-7 h2 {
+.facilities-content  .col-md-8 h2 {
     color: #97aeb3;
     font-size: 24px;
     font-weight: normal;
@@ -1075,21 +1074,21 @@ font-size: 13px;
     padding: 30px 0;
    }
 
-.facilities-content  .col-md-7 img {
+.facilities-content  .col-md-8 img {
     display: block;
     padding: 20px;
     height: 200px;
     float: left;
 }
 
-.facilities-content  .col-md-7  p{
+.facilities-content  .col-md-8  p{
     color: #767676;
     line-height: 30px;
     margin: 0;
     padding: 20px 0;
 }
 
-.facilities-content .col-md-7  h3 {
+.facilities-content .col-md-8  h3 {
     background: url(../images/icons.png) no-repeat 95px -350px;
     font-size: 14px;
     font-weight: normal;
@@ -1121,7 +1120,7 @@ font-size: 13px;
     padding-bottom: 20px;
 }
 
-.facilities-content .col-md-7 h2{
+.facilities-content .col-md-9 h2{
     color: #94acb3;
     font-size: 24px;
     display: block;
@@ -1130,7 +1129,7 @@ font-size: 13px;
     text-transform: capitalize;
 }
 
- .facilities-content .col-md-7 ul li .article {
+ .facilities-content .col-md-8 ul li .article {
     float: left;
     margin: 0;
     padding: 0;
@@ -1138,13 +1137,13 @@ font-size: 13px;
     width: 690px;
 }
 
- .facilities-content .col-md-7 .article ul {
+ .facilities-content .col-md-8 .article ul {
     float: left;
     margin: 0;
     padding: 0;
 }
 
-.facilities-content .col-md-7 .article ul li{
+.facilities-content .col-md-8 .article ul li{
    color: #767676;
 	display: block;
 	line-height: 30px;
@@ -1156,7 +1155,7 @@ font-size: 13px;
 	font-size: 13px;
 }
 
- .facilities-content .col-md-7 .article ul li a {
+ .facilities-content .col-md-8 .article ul li a {
     color: #767676;
     text-decoration: none;
     text-transform: uppercase;
@@ -1238,6 +1237,10 @@ font-size: 13px;
 	padding-bottom:30px;
 }
 
+.home-content .container-fluid{
+	padding-left: 110px;
+	padding-right: 110px;
+}
 
 /* OUR LOCATIONS */
 
@@ -1286,7 +1289,7 @@ font-size: 13px;
     margin-left: auto;
     margin-right: auto;
     height: 230px;
-	width: 700px;
+	width: 550px;
 	border: 1px solid #fff;
 }
 
@@ -1309,8 +1312,7 @@ font-size: 13px;
 .contact-content .content-1 {
    	margin-left: auto;
 	margin-right: auto;
-	width: 71%;
-	padding: 25px;
+	padding-top: 25px;
 }
  
 .contact-content h2 {
@@ -1379,7 +1381,79 @@ font-size: 13px;
     width: 142px;
 }
 
+.contact-content-2 {
+	background-color: #fff;
+}
 
+.contact-content-2 h2 {
+	color: #97aeb3;
+	font-size: 24px;
+	font-weight: normal;
+	margin: 0;
+	padding: 30px 0;
+	text-transform: capitalize;
+	text-align: center;
+}
+
+.contact-content-2 form label {
+    display: block;
+    margin: 0;
+    overflow: hidden;
+    padding: 10px 0;
+}
+
+.contact-content-2 form label span {
+    color: #767676;
+    display: block;
+    float: left;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    width: 130px;
+}
+
+.contact-content-2 form label input {
+    border: 1px solid #94acb3;
+    color: #767676;
+    display: block;
+    float: left;
+    font-family: 'Conv_Ubuntu-Light';
+    font-size: 14px;
+    height: 37px;
+    margin: 0;
+    padding: 3px 5px;
+    width: 67%;
+}
+
+.contact-content-2 form label textarea {
+    border: 1px solid #94acb3;
+    color: #767676;
+    display: block;
+    float: left;
+    font-family: 'Conv_Ubuntu-Light';
+    font-size: 14px;
+    height: 147px;
+    margin: 0;
+    overflow: auto;
+    padding: 5px;
+    width: 528px;
+}
+
+.contact-content-2 form #submit {
+    background: url(../images/button-submit.png) no-repeat 0 0;
+    border: 0;
+    cursor: pointer;
+    display: block;
+    height: 38px;
+    margin: 8px 0 0 125px;
+    padding: 0;
+    width: 142px;
+}
+
+.contact-content-2 .row {
+	padding-bottom: 30px;
+}
 .contact-content .panel-default > .panel-heading {
     color: #ffe600;
     background-color: #993332;

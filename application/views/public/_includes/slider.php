@@ -1,7 +1,7 @@
 <section class="section-white">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-3" style="padding-left: 130px;">
                 <div class="fb-page" data-href="https://www.facebook.com/alphameddiagnosticlaboratory/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
                     <blockquote cite="https://www.facebook.com/alphameddiagnosticlaboratory/" class="fb-xfbml-parse-ignore">
                         <a href="https://www.facebook.com/alphameddiagnosticlaboratory/">Alphamed Diagnostic Laboratory</a>
